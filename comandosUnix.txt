@@ -1,0 +1,12 @@
+# baixar projeto
+git clone <<url_do_projeto>>
+
+# listar diretorios
+cd 
+
+# listar status dos arquivos
+git status	
+
+#enviar arquivo da maquina para o repo
+
+git add .
